@@ -1,2 +1,2 @@
 # smartcircuits-python
-A collection of Python libraries that control hardware in Smart Labs' Smart Circuits electronics kit.
+A collection of Python libraries that control hardware in [Smart Lab's Smart Circuits electronics kit.](https://www.smartlabtoys.com/product/smart-circuits-electronics-lab/)
